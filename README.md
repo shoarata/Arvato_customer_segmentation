@@ -13,6 +13,5 @@ check [medium post](https://shoarata.medium.com/optimize-your-email-campaign-usi
 * **matplotlib.pyplot** for graphs
 * **sklearn** for models and metrics
 * **skopt** for an optimized version of GridSearchCV
-* 
 
 
